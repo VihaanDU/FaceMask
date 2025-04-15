@@ -122,6 +122,4 @@ model.save("mask_recog.h5")
 
 
 ## 🙋‍♂️ Author
-
 Created by: **VIHAAN DUMONT** 
-For questions or contributions, feel free to reach out or fork the project on GitHub.
