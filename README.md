@@ -114,9 +114,14 @@ model.save("mask_recog.h5")
 ---
 
 ## Output
+![image2](https://github.com/user-attachments/assets/87b8934a-63c5-4091-b897-d610fcea318b)
+
+
+![image3](https://github.com/user-attachments/assets/85f18dae-b1b6-4cba-bd43-b2f5b5341026)
+
 
 
 ## 🙋‍♂️ Author
 
-Created by: *[Your Name Here]*  
+Created by: **VIHAAN DUMONT** 
 For questions or contributions, feel free to reach out or fork the project on GitHub.
